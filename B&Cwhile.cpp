@@ -1,0 +1,13 @@
+// Detener en bucle while 
+
+int main() {
+  int i = 0;
+  while ( i < 10 ) {
+    cout << i << "\n";
+    i++;
+    if ( i == 4 ) {
+      break;
+    }
+  }
+  return 0;
+}
