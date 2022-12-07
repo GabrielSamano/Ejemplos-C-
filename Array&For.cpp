@@ -9,3 +9,10 @@ int main () {
   return 0;
 }
 
+
+// La salida luciria asi:
+// Ford
+// Ferrari
+// BMW
+// Nissan
+
