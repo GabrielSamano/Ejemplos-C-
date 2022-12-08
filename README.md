@@ -1,2 +1,2 @@
 # Ejemplos-en-C++
-Algunos ejemplos para practicar el lenguaje de programación C++
+Algunos ejemplos basicos para entender el lenguaje de programación C++
